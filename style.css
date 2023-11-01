@@ -262,8 +262,16 @@ html, body {
 
     }
     #nav{
+        padding: 10px 10px;
+
         height: 10vw;
         border-bottom: 2px solid black;
+    }
+
+    .hvr{
+        /* background-color: red; */
+        font-size: 100px;
+
     }
 
 }
