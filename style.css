@@ -246,3 +246,24 @@ html, body {
     font-weight: 400;
     letter-spacing: -.5px;
 }
+@media(max-width:600px){
+    body{
+        /* background-color: red; */
+    }
+    #main{
+    }
+    #right a{
+        font-size: 3vw;
+        /* background-color:yellow; */
+
+    }
+    #nav img{
+        width: 15vw;
+
+    }
+    #nav{
+        height: 10vw;
+        border-bottom: 2px solid black;
+    }
+
+}
